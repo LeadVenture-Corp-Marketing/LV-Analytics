@@ -1,5 +1,5 @@
 # LeadVenture Analytics Content and Conversion Grouping
-The purpose of this repo is to create a mapping of URLs and Content Groups or Conversion Groups for Non-WP sites.
+The purpose of this repo is to create a mapping of URLs and Content Groups or Conversion Groups.
 The CSV files in this repo are being used in GTM containers of the following sites.
 * Dealer Spike	
 * Dealer Car Search	

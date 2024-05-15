@@ -1,4 +1,16 @@
-# Adding a New Group of Conversions
+# LeadVenture Analytics Events for Non-WP sites
+The purpose of this repo is to create a mapping of URLs and Content Groups or Conversion Groups for Non-WP sites.
+The CSV files in this repo are being used in GTM containers of the following sites.
+* Dealer Spike	
+* Dealer Car Search	
+* Frazer	
+* Net Driven	
+* IRV	
+* ARI	
+* LeadVenture	
+* TCS
+
+## Adding a New Group of Conversions
 
 To add a new group of conversions, follow these steps. This guide assumes you're adding a new group named `content`.
 
@@ -28,7 +40,7 @@ To add a new group of conversions, follow these steps. This guide assumes you're
 
 ---
 
-# Adding a New Content Group
+## Adding a New Content Group
 
 To add a new Content Group, follow these steps. This guide assumes you're adding a new group named `content`.
 
